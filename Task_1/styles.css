@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #A9DA95;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: #EF554E
+}
+
+.avatar {
+    width: 150px;
+    border: 2px solid #333;
+    border-radius: 50%;
+    margin: 20px 0;
+}
+
+ul {
+    list-style-type: disc;
+    margin: 20px auto;
+    padding: 0;
+    width: 200px;
+    text-align: left;
+}
