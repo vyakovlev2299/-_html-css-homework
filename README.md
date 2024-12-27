@@ -1,2 +1,2 @@
-# Yakoxlev_html-css-homework
+# Yakovlev_html-css-homework
 Домашнее задание по фротенду
