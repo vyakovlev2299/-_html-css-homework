@@ -1,1 +1,22 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Мой профиль</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Яковлев Вадим</h1>
+    <img src="https://i.pinimg.com/originals/2a/b8/0a/2ab80a4f57b47b63d50fa7dcd932745a.jpg" alt="Аватар" class="avatar">
+    <p>Привет! Меня зовут Вадим. Я увлекаюсь беспилотниками.</p>
+    <p>Список моих любимых фильмов:</p>
+    <ul>
+        <li>Оппенгеймер</li>
+        <li>Интерстеллар</li>
+        <li>Звездные войны</li>
+    </ul>
+    <a href="https://vk.com/vdyakovlev" target="_blank">Мой профиль в соцсетях</a>
+</body>
+
+</html>
 
